@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Agentic AI on AWS — Production Reference Architecture"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Pandey
+    given-names: Karmendra
+    orcid: "https://orcid.org/0009-0000-3461-9889"
+repository-code: "https://github.com/karmendra8386/agentic-ai-aws-reference"
+license: MIT
+version: 1.0.0
+date-released: 2026-10-07
