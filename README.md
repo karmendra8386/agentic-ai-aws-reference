@@ -2,6 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23178788.svg)](https://doi.org/10.5281/zenodo.23178788)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![DevOps Dozen 2026 Finalist](https://devopsdozen.com/assets/badges/02-devops-advocate-of-the-year.png)](https://devopsdozen.com/finalists/02-devops-advocate-of-the-year.html)
 
 A reference architecture for building **production-ready AI agents on AWS**,
 distilled from patterns used across enterprise AI/ML engagements: agent identity
